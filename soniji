@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Welcome to anshsoni07.com</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 50px;
+        }
+
+        p {
+            font-size: 20px;
+            color: #666;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to anshsoni07.com</h1>
+    <p>Greetings everyone! This is a website created for educational purposes. Feel free to explore and learn!</p>
+    
+    <div class="footer">
+        <p>&copy; 2024 anshsoni07.com - All Rights Reserved</p>
+    </div>
+</body>
+</html>
